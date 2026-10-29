@@ -183,7 +183,7 @@ export const education = [
   {
     kind: "Degree",
     title: "M.Sc. in Mathematics",
-    org: "Gujarat University",
+    org: "School of Science, Gujarat University, Ahmedabad",
     dates: "",
     detail: "Master of Science, completed in 2023.",
   },

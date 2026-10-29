@@ -18,7 +18,7 @@ export default function Hero() {
             <span className="name-gradient">Suthar</span>
           </h1>
           <p className="mt-6 font-display text-2xl font-semibold text-white">Python Developer</p>
-          <p className="mt-2 text-lg text-white/90">Python · Automation Systems · Data Science · AI/ML · API Integration · Web Scraping · </p>
+          <p className="mt-2 text-lg text-white/90">Python · Automation Systems · Data Science · AI/ML · API Integration · Web Scraping</p>
           <p className="mt-6 max-w-2xl text-base leading-relaxed text-subtle sm:text-lg">{profile.tagline}</p>
           <p className="mt-3 max-w-2xl text-base leading-relaxed text-subtle">{profile.supporting}</p>
           <div className="mt-8 flex flex-wrap gap-3">
