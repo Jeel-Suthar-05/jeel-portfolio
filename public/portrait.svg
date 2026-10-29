@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" role="img" aria-label="Portrait placeholder for Jeel Suthar">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#16324c"/>
+      <stop offset="55%" stop-color="#0c1b2e"/>
+      <stop offset="100%" stop-color="#07111c"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8eecf8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#8eecf8" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="800" fill="url(#bg)"/>
+  <rect x="36" y="36" width="568" height="728" rx="28" fill="none" stroke="url(#line)" stroke-width="2"/>
+  <circle cx="320" cy="250" r="92" fill="none" stroke="#8eecf8" stroke-opacity="0.45" stroke-width="1.5"/>
+  <circle cx="320" cy="228" r="36" fill="#143049" stroke="#8eecf8" stroke-width="2"/>
+  <path d="M232 360c28-62 58-88 88-88s60 26 88 88" fill="none" stroke="#8eecf8" stroke-width="2" stroke-linecap="round"/>
+  <text x="320" y="500" text-anchor="middle" fill="#e8eef6" font-family="Segoe UI, sans-serif" font-size="92" font-weight="700" letter-spacing="8">JS</text>
+  <text x="320" y="560" text-anchor="middle" fill="#8eecf8" font-family="Segoe UI, sans-serif" font-size="22" letter-spacing="4">JEEL SUTHAR</text>
+  <text x="320" y="640" text-anchor="middle" fill="#b7c7d8" font-family="Segoe UI, sans-serif" font-size="20">Python Developer</text>
+</svg>
